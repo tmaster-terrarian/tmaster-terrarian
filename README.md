@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello !!!
+I'm bscit, an unprofessional software developer/artist and a certified silly goober.
+<br>My main interests lie in game development and art, and most of the former will appear here on this site!
+
+My current skillset includes but is not limited to:
+- html, css & javascript
+- C#, Java
+- Unity Engine (partial)
+- GameMaker Studio
 
 <!--
 **tmaster-terrarian/tmaster-terrarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
