@@ -1,5 +1,5 @@
 ### Hello !!!
-I'm bscit! I'm an unprofessional software developer/artist and a certified silly goober 🏳️‍⚧️
+I'm bscit! I'm an unprofessional software developer/artist and a certified silly goober
 <br>My main interests lie in game development and art, and most of the former will appear here.
 
 Some Links:
