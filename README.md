@@ -13,11 +13,11 @@ Some Links:
 ---
 
 My current skillset includes:
-- <img height="14" width="14" src="https://cdn.simpleicons.org/htmx/5386EC/3366CC" /> General web development
-- .NET + <img height="14" width="14" src="https://cdn.simpleicons.org/monogame/E73C00" /> MonoGame Framework
-- <img height="14" width="14" src="https://cdn.simpleicons.org/gamemaker/101010/c3c3c3" /> GameMaker
+- <img height="12" width="12" src="https://cdn.simpleicons.org/htmx/5386EC/3366CC" /> General web development
+- .NET + <img height="12" width="12" src="https://cdn.simpleicons.org/monogame/E73C00" /> MonoGame Framework
+- <img height="12" width="12" src="https://cdn.simpleicons.org/gamemaker/101010/c3c3c3" /> GameMaker
 
 > [!NOTE]
-<img height="14" width="14" src="https://cdn.simpleicons.org/discord/5865F2"/> If you contact me on Discord, please please *please* start off by saying you came from github, otherwise I will likely assume that you're a bot and won't respond. Thanks!
+<img height="12" width="12" src="https://cdn.simpleicons.org/discord/5865F2"/> If you contact me on Discord, please please *please* start off by saying you came from github, otherwise I will likely assume that you're a bot and won't respond. Thanks!
 
 
