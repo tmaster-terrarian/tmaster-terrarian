@@ -1,6 +1,6 @@
 ### Hello !!!
 I'm bscit! I'm an independent artist and game developer, I enjoy drawing anime girls and going on tangents about hyper-specific coding concepts to my friends.
-<br>My main interests lie in game development and art, most of the former will appear here or on [sr.ht](https://git.sr.ht/~bscit).
+<br>My main interests lie in game development and art, most of the former will appear here or on [sr.ht/~bscit](https://sr.ht/~bscit).
 
 ---
 
@@ -30,7 +30,7 @@ I'm bscit! I'm an independent artist and game developer, I enjoy drawing anime g
 
 - **Buckshot Counter**<br>
   A bare-bones tool to keep track of the shell count in a round of Buckshot Roulette.
-  <br>[source](https://git.sr.ht/~bscit/buckshot-counter) - [online](https://tmaster-terrarian.github.io/buckshot-counter/) - [.net source](https://git.sr.ht/~bscit/buckshot-counter) - [.net download](https://github.com/tmaster-terrarian/BuckshotCounter.NET/releases)
+  <br>[source](https://sr.ht/~bscit/buckshot-counter/) - [online](https://tmaster-terrarian.github.io/buckshot-counter/) - [.net source](https://git.sr.ht/~bscit/buckshot-counter) - [.net download](https://github.com/tmaster-terrarian/BuckshotCounter.NET/releases)
 
 - **"Hide Reposts" button for Bluesky**<br>
   TamperMonkey userscript that adds a "Hide Reposts" button to bluesky profile pages.
