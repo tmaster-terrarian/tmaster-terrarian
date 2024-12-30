@@ -32,7 +32,7 @@ I'm bscit! I'm an independent artist and game developer, I enjoy drawing anime g
   A bare-bones tool to keep track of the shell count in a round of Buckshot Roulette.
   <br>[source](https://sr.ht/~bscit/buckshot-counter/) - [online](https://tmaster-terrarian.github.io/buckshot-counter/) - [.net source](https://git.sr.ht/~bscit/buckshot-counter) - [.net download](https://github.com/tmaster-terrarian/BuckshotCounter.NET/releases)
 
-- **"Hide Reposts" button for Bluesky**<br>
+- **"Hide Reposts" button for Bluesky (BROKEN FOR THE TIME BEING!!)**<br>
   TamperMonkey userscript that adds a "Hide Reposts" button to bluesky profile pages.
   <br>[source](https://github.com/tmaster-terrarian/Userscripts/tree/main/Bluesky%20Repost%20Hider) - [greasy fork](https://greasyfork.org/en/scripts/518654-bluesky-repost-hider)
 
