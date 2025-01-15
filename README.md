@@ -5,10 +5,9 @@ I'm bscit! I'm an independent artist and game developer, I enjoy drawing anime g
 ---
 
 #### Programming skills:
-- command line tools
-- game development concepts
-- very fast learner, but only if I enjoy the topic &nbsp;&nbsp;:&nbsp;)
 - C#, can adjust to almost any .NET environment
+- command line tools
+- game development
 - web basics (js & ts)
 - GameMaker
 - Unity, vaguely
